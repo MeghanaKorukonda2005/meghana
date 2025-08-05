@@ -1,1 +1,3 @@
-this is about file
+my name is meghana
+my course is BCA
+what i larned about github is that it stores our code in it
